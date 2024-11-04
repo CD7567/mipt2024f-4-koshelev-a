@@ -46,3 +46,7 @@
 *.cache/
 
 *.csv
+
+test.py
+dist
+mipt2024f_4_barrect.egg-info
