@@ -53,4 +53,4 @@ def warp_by_grid(
     map_x_32 = map_x.astype('float32')
     map_y_32 = map_y.astype('float32')
 
-    return cv2.remap(img_src, map_x_32, map_y_32, cv2.INTER_CUBIC)
+    return cv2.transpose(cv2.remap(img_src, map_x_32, map_y_32, cv2.INTER_CUBIC))
