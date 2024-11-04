@@ -1,4 +1,0 @@
-[io]
-dataDir = "data"
-outDirSuffix = "out"
-tasksJsonFileName = "tasks.json"
