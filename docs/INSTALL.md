@@ -7,6 +7,7 @@ pip install mipt2024f-4-barrect
 ```
 
 После этого пакет доступен в коде, например, так:
+
 ```python
-from mipt2024f_4_barrect.rectify import rectify
+from mipt2024f_4_barrect.rectify import rectify_perspective
 ```
