@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 DESCRIPTION = 'Barcode rectifier'
 LONG_DESCRIPTION = 'MIPT 2024 4th semester fall project module: barcode rectifier'
 
