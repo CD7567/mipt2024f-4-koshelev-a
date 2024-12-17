@@ -35,7 +35,7 @@ src_grid = numpy.int32(
 **Вход**
 
 ```python
-src_grid = np.int32(
+src_grid = numpy.int32(
     [
         [2386, 1704],
         [2476, 1592],
@@ -55,12 +55,12 @@ corner_idx = 2
 
 <img src="assets/bent_corner_1_proc.jpg" alt="Исходное изображение" style="width: 100%; height: auto;"/>
 
-#### Пример 1
+#### Пример 2
 
 **Вход**
 
 ```python
-src_grid = np.int32(
+src_grid = numpy.int32(
     [
         [1818, 1219],
         [2237, 1553],
